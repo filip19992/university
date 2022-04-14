@@ -1,4 +1,4 @@
-package com.company.konstruktory.ex1;
+package pl.filipwlodarczyk.constructors.ex1;
 
 public class Start {
     public static void main(String[] args) {

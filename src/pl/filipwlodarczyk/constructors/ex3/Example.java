@@ -1,4 +1,4 @@
-package com.company.konstruktory.ex3;
+package pl.filipwlodarczyk.constructors.ex3;
 
 public class Example {
     double firstField;

@@ -1,4 +1,4 @@
-package com.company.konstruktory.ex2;
+package pl.filipwlodarczyk.constructors.ex2;
 
 public class Point {
     int x;

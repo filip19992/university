@@ -1,4 +1,4 @@
-package com.company.konstruktory.ex4;
+package pl.filipwlodarczyk.constructors.ex4;
 
 public class OverloadingExample {
     public void print(int b) {

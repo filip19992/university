@@ -1,4 +1,4 @@
-package com.company.konstruktory.ex6;
+package pl.filipwlodarczyk.constructors.ex6;
 
 public class User {
     private String username;

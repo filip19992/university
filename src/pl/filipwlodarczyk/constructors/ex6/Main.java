@@ -1,4 +1,4 @@
-package com.company.konstruktory.ex6;
+package pl.filipwlodarczyk.constructors.ex6;
 
 import java.util.Scanner;
 
